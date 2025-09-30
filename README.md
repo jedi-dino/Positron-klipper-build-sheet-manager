@@ -85,14 +85,11 @@ This project was inspired by [this Klipper Discourse post](https://klipper.disco
 3. Repeat the above two steps for **Textured PEI**.
 4. Start your print and enjoy!
 
-   ```gcode
-   LED_WORKING
-   NOZZLE_PURGE
-   ```
+   
 
 ---
 
 ## Contact
 
-* Join the Positron Discord: `hello:)`
+* Join the Positron Discord and contact username: `hello:)`
 * Or make a pull request here on GitHub
