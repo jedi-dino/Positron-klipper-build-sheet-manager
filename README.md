@@ -91,5 +91,5 @@ This project was inspired by [this Klipper Discourse post](https://klipper.disco
 
 ## Contact
 
-* Join the Positron Discord and contact username: `hello:)`
+* Join the Positron Discord and contact me: `hello:)`
 * Or make a pull request here on GitHub
