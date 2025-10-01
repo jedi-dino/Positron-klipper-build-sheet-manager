@@ -61,7 +61,7 @@ This project was inspired by [this Klipper Discourse post](https://klipper.disco
    Add the following after including build sheets:
 
    ```gcode
-   [gcode_macro INSTALL_TEXTURED_SHEET]
+   [gcode_macro INSTALL_TEXTURED_PEI_SHEET]
    gcode:
        INSTALL_BUILD_SHEET NAME="Textured PEI"
 
